@@ -1,0 +1,3 @@
+export RBXOPT=-X19
+rvm use rbx
+
